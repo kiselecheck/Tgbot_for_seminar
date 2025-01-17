@@ -10,3 +10,13 @@
 
 Схема работы:
 ![Блок-схема](block_diagram.svg)
+
+Скриншоты работы:
+
+![screen1.png](screen1.png)
+![screen2.png](screen2.png)
+![screen3.png](screen3.png)
+![screen4.png](screen4.png)
+
+### Испольнители: Киселев Илья, Фомина Алина.
+### Группа: БИТ233
